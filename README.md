@@ -1,7 +1,7 @@
 <h1>👋<strong>Hi there!</strong></h1>
 <div>
   <h2>My name is Gabriel Laxy!</h2>
-  <img align="right" height="130px" src="https://i.imgur.com/WHwNraY.jpeg"/>
+  <img align="right" height="130px" src="https://i.imgur.com/guuerz7.png"/>
 
 <p>I'm a dedicated <strong>Computer Science student</strong> at the <strong>Instituto Mauá de Tecnologia</strong>, where I'm honing my skills 	and expanding my knowledge in the vast field of computing. My journey began in high school during an ICT class, where I printed my first 'Hello, World!' in Python. That moment ignited a passion that has only grown stronger with time.</p>
 
