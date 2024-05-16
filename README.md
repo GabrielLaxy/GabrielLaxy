@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Hi there!👋</strong></h1>
 <div>
   <h2 align="center">My name is Gabriel Laxy!</h2>
-  <img align="center" height="212px" width="980px" src="https://i.pinimg.com/originals/f3/bd/45/f3bd45f6d915b011bc29f6661a73bac9.jpg"/>
+  <img align="center" height="280px" width="980px" src="https://i.pinimg.com/originals/f3/bd/45/f3bd45f6d915b011bc29f6661a73bac9.jpg"/>
 
 <h1 align="center">I'm a Future Tech Innovator! 👨‍💻</h1>
 
