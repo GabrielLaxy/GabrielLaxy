@@ -15,7 +15,7 @@
 <div>
   <h2>Connect with me:</h2>
   <p align="left">
-  <a href="https://instagram.com/tokuji_massuda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/gabriel_laxy"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:gabriel_laxy@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"</a>
   </p>
 </div>
