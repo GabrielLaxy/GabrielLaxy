@@ -9,9 +9,9 @@
   I'm a dedicated <strong>Computer Science student</strong> at the <strong>Instituto Mauá de Tecnologia</strong>, where I'm honing my skills and expanding my knowledge in the vast field of computing. My journey began in high school during an ICT class, where I printed my first 'Hello, World!' in Python. That moment ignited a passion that has only grown stronger with time.
 </p>
 
-<h2>🛡️ My Focus: Information Security</h2>
+<h2>🛡️ My Focus: Cyber security</h2>
 <p>
-  Currently, I'm deeply invested in my studies, pursuing a self-taught path with a focus on <strong>Information Security</strong>. I believe in a well-rounded understanding of computing, which is why I also delve into various other topics that contribute to my overall comprehension of the field. I like to think of it as assembling my own 'Batman's utility belt' of skills. 🦇
+  Currently, I'm deeply invested in my studies, pursuing a self-taught path with a focus on <strong>Cyber security</strong>. I believe in a well-rounded understanding of computing, which is why I also delve into various other topics that contribute to my overall comprehension of the field. I like to think of it as assembling my own 'Batman's utility belt' of skills. 🦇
 </p>
 
 <h2>👨‍💻 Leadership and Collaboration</h2>
